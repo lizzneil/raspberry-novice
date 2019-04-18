@@ -1,0 +1,46 @@
+\hypertarget{main_8c}{}\section{main.\+c File Reference}
+\label{main_8c}\index{main.\+c@{main.\+c}}
+
+
+content tipes  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+Include dependency graph for main.\+c\+:
+% FIG 0
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{main_8c_aa5518df30808c74bd78ff1a321c256d1}\label{main_8c_aa5518df30808c74bd78ff1a321c256d1}} 
+int {\bfseries Ex\+Func1} (int a, char b)
+\item 
+\mbox{\Hypertarget{main_8c_a6288eba0f8e8ad3ab1544ad731eb7667}\label{main_8c_a6288eba0f8e8ad3ab1544ad731eb7667}} 
+void {\bfseries main} (void)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+content tipes 
+
+
+\begin{DoxyParams}{Parameters}
+{\em void} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+void  gabeli 
+\end{DoxyReturn}
+\begin{DoxyVersion}{Version}
+v1.\+0.\+10 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+2019.\+4.\+18 
+\end{DoxyDate}
+\begin{DoxySince}{Since}
+gabeli 01 
+\end{DoxySince}
+\begin{DoxyRefDesc}{Bug}
+\item[\hyperlink{bug__bug000001}{Bug}]null \end{DoxyRefDesc}
+\begin{DoxyWarning}{Warning}
+do not modify 
+\end{DoxyWarning}
