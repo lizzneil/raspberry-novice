@@ -21,7 +21,7 @@ void main(void ){
 }
 	
 /***
- *@brief  introduce funcion
+ * introduce funcion
  *@param a add param
  *@param b add param
  *@return result
