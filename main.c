@@ -12,12 +12,19 @@
  * */
  
 #include <stdio.h>
+#include <math.h>
 int ExFunc1(int a,char b);
 
 
 void main(void ){	
 	printf("hello world!\n");
 	printf("xxx :%d\n",ExFunc1(1,'a'));
+	char str[80];
+
+	sprintf(str,"value of pi =%f",M_PI);
+	puts(str);
+	return;
+
 }
 	
 /***
